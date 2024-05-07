@@ -1,0 +1,1 @@
+Requires the 'cpuinfo' library: https://github.com/pytorch/cpuinfo
